@@ -1,4 +1,4 @@
-# Proyecto de mineria de datos Modelado Predictivo Forecasting
+# Proyecto de mineria de datos: Modelado Predictivo Forecasting
 
 Proyecto de analítica predictiva aplicado al sector retail, desarrollado en Python para abordar dos necesidades de negocio: la identificación de clientes con riesgo de abandono y el pronóstico semanal de ventas.
 
