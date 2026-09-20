@@ -30,6 +30,8 @@ Los registros transaccionales fueron agregados semanalmente para analizar la ten
 
 El proyecto utiliza el dataset **Online Retail II**, compuesto por transacciones de una empresa de comercio minorista del Reino Unido.
 
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+
 Principales variables del conjunto original:
 
 - `Invoice`: identificador de la factura.
